@@ -13,4 +13,4 @@ from src.views import *
 
 if __name__ == "__main__":
     # Running the Flask application with the socketio extension
-    socketio.run(app, host="::1", port=5000, debug=True, allow_unsafe_werkzeug=True)
+    socketio.run(app, host="::1", port=80, debug=True, allow_unsafe_werkzeug=True)
