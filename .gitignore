@@ -1,0 +1,7 @@
+# server
+__pycache__
+.venv
+.vscode
+instance
+src/__pycache__
+lock.txt

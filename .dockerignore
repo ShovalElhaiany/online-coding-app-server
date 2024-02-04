@@ -1,0 +1,12 @@
+# server
+__pycache__
+server/.vscode
+instance
+src/__pycache__
+lock.txt
+.git
+*.pyc
+*.pyo
+.venv
+.dockerignore
+Dockerfile

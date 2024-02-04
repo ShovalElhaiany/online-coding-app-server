@@ -1,0 +1,18 @@
+[
+    {
+        "title": "ConditionalStatement.js",
+        "code": "let num = 10;\nif (num > 0) {\n    console.log(\"Positive number\");\n} else {\n    console.log(\"Non-positive number\");\n}"
+    },
+    {
+        "title": "ForLoop.js",
+        "code": "for (let i = 0; i < 5; i++) {\n    console.log(\"Iteration \" + (i + 1));\n}"
+    },
+    {
+        "title": "FunctionDefinition.js",
+        "code": "function greet(name) {\n    console.log(\"Hello, \" + name + \"!\");\n}\n\ngreet(\"John\");"
+    },
+    {
+        "title": "ArrayManipulation.js",
+        "code": "let colors = [\"red\", \"green\", \"blue\"];\ncolors.push(\"yellow\");\nconsole.log(\"Updated Colors:\", colors);"
+    }
+]
